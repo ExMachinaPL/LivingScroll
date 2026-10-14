@@ -1,0 +1,34 @@
+Living Scroll is a game master's companion for tabletop role-playing games. Write your adventure once, then run it at the table — scene by scene, choice by choice.
+
+WRITE YOUR ADVENTURE
+• Scenes linked into a branching story: start, standard, recurring and ending scenes
+• Coloured story paths that group scenes into plot threads
+• Non-player characters with portraits, descriptions, backstories and stat blocks for supported game systems
+• Rich-text notes, images, key events and background art for every scene
+• Soundtracks: attach music to scenes and let it play automatically
+• Visibility rules that reveal notes and characters only when the right events have happened
+
+RUN IT AT THE TABLE
+• Play view built for the game master: everything the current scene needs, in one place
+• Prep mode for a safe dry run — nothing is saved
+• Track key events and retire characters as the story moves on
+• Improvise with ad-hoc scenes and jump back into the plot whenever you like
+• Split the party into parallel tracks and bring them back together
+• Quick GM notes written during the session
+• Progress is saved automatically, so you can pause and resume any time
+
+REMEMBER EVERY SESSION
+• Finished games are archived with their full history
+• Replay a past session step by step, exactly as it was played
+• Carry progress over from a finished game into the next adventure of a campaign
+
+SHARE AND EXPORT
+• Export adventures as portable archives and import them on another device
+• Reuse elements (characters, notes, scenes) between adventures
+• Export an adventure to a LaTeX handbook you can compile into a printable book
+
+PRIVATE BY DESIGN
+• Works fully offline — no account, no ads, no tracking
+• Your adventures stay on your device
+
+Available in English, German, French, Portuguese, Spanish, Polish, Chinese and Japanese. Also available for Windows and Linux at livingscroll.net.

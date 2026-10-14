@@ -1,0 +1,34 @@
+Living Scroll to pomocnik mistrza gry w fabularnych grach stołowych. Napisz przygodę raz, a potem poprowadź ją przy stole — scena po scenie, wybór po wyborze.
+
+NAPISZ PRZYGODĘ
+• Sceny połączone w rozgałęzioną fabułę: początkowe, zwykłe, powtarzalne i końcowe
+• Kolorowe ścieżki fabularne grupujące sceny w wątki
+• Bohaterowie niezależni z portretami, opisami, historią i statystykami dla obsługiwanych systemów gry
+• Notatki z formatowaniem, obrazy, kluczowe wydarzenia i tła dla każdej sceny
+• Ścieżki dźwiękowe: przypisz muzykę do scen i pozwól jej grać automatycznie
+• Reguły widoczności odsłaniające notatki i postacie dopiero po właściwych wydarzeniach
+
+POPROWADŹ JĄ PRZY STOLE
+• Widok gry stworzony dla mistrza gry: wszystko, czego potrzebuje bieżąca scena, w jednym miejscu
+• Tryb przygotowania do próbnego przejścia — nic nie jest zapisywane
+• Odhaczaj kluczowe wydarzenia i wycofuj postacie w miarę rozwoju historii
+• Improwizuj scenami ad hoc i wracaj do fabuły, kiedy chcesz
+• Rozdzielaj drużynę na równoległe wątki i łącz ją ponownie
+• Szybkie notatki MG pisane w trakcie sesji
+• Postęp zapisuje się automatycznie — możesz przerwać i wrócić w dowolnej chwili
+
+ZAPAMIĘTAJ KAŻDĄ SESJĘ
+• Ukończone gry trafiają do archiwum z pełną historią
+• Odtwarzaj minioną sesję krok po kroku, dokładnie tak, jak była rozegrana
+• Przenoś postęp z ukończonej gry do kolejnej przygody kampanii
+
+UDOSTĘPNIAJ I EKSPORTUJ
+• Eksportuj przygody do przenośnych archiwów i importuj je na innym urządzeniu
+• Wykorzystuj elementy (postacie, notatki, sceny) w wielu przygodach
+• Eksportuj przygodę do podręcznika w LaTeX-u, który skompilujesz do książki do druku
+
+PRYWATNOŚĆ OD PODSTAW
+• Działa całkowicie offline — bez konta, reklam i śledzenia
+• Twoje przygody zostają na Twoim urządzeniu
+
+Dostępna po angielsku, niemiecku, francusku, portugalsku, hiszpańsku, polsku, chińsku i japońsku. Także na Windows i Linuksa: livingscroll.net.

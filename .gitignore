@@ -1,0 +1,81 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter SDK cloned into the repo (not part of project source)
+/flutter/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+/dist/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/build/
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Android release signing — never commit keystores or key material (CI injects
+# these from secrets; see docs/CI_SETUP.md "Android signing").
+**/key.properties
+**/*.jks
+**/*.keystore
+
+# Stray / temporary files
+*.tmp
+*.bak
+*~
+Thumbs.db
+.env*
+.flutter-plugins
+.fvm/
+
+# Test artefacts
+**/failures/
+integration_test/screenshots/
+
+# Adventure exports produced while testing
+*.ls
+*.lse
+
+# Website build output (site/build.sh)
+/_site/
+
+# Play Store assets: generated demo art (distribution/play/demo/generate_art.py)
+# and Python bytecode caches
+/distribution/play/demo/build/
+__pycache__/
